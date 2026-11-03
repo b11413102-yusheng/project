@@ -83,7 +83,8 @@
 實作照片-鐵捲門緊急停止
 <img width="922" height="1010" alt="終端機1" src="https://github.com/user-attachments/assets/b6352038-b5f2-423a-a183-d7352ea2613f" />
 <img width="764" height="1090" alt="終端機2" src="https://github.com/user-attachments/assets/7327366b-f1bb-4ca2-94de-a12c5b099ffb" />
-實作照片-終端機狀態
+
+  實作照片-終端機狀態
 
 ## 9. AI 使用說明：哪段 AI、你怎麼查核
 - **應用段落**：協助規劃狀態機（FSM）的邏輯架構、UART 環形緩衝區的接收實作，以及 Python 測試腳本的編寫。
